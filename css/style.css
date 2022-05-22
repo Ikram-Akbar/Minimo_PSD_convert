@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+/* header section start here  */
+.header_container {
+    margin: 3%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 30%;
+}
+
+.logo img {
+    margin-left: 50px;
+}
+
+.menu_items {
+  width: 70%;
+}
+
+.menu_items a {
+    text-transform: uppercase;
+    color: #919191;
+    margin: 70px;
+}
+/* end header part  */
