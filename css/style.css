@@ -4,6 +4,7 @@
     padding: 0;
     text-decoration: none;
     list-style: none;
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 /*--------------- header section start here -------------------- */
@@ -154,7 +155,9 @@
 .load_btn a {
     color: #919191;
 }
+/* ---------- load btn section end here ----------- */
 
+/* ---------- footer section start here ------------- */
 .footer_container {
     background-color: #f0f0f0;
     height: 80px;
