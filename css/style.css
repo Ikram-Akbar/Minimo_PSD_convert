@@ -29,4 +29,14 @@
     color: #919191;
     margin: 70px;
 }
-/* end header part  */
+/* ----------------end header part --------- */
+
+/*---------------- Banner Section start ---------------- */
+.banner_container {
+    margin: 0 85px ;
+
+}
+.banner_container img {
+width: 100%;
+}
+/*------------- Banner section end here ----------------- */
