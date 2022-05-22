@@ -22,7 +22,7 @@
 }
 
 .menu_items {
-  width: 70%;
+    width: 70%;
 }
 
 .menu_items a {
@@ -30,89 +30,162 @@
     color: #919191;
     margin: 70px;
 }
+
 /* ---------------- end header part --------- */
 
 /*---------------- Banner Section start ---------------- */
 .banner_container {
-    margin: 0 85px ;
+    margin: 0 85px;
 
 }
+
 .banner_container img {
-width: 100%;
+    width: 100%;
 }
-.banner_text{
+
+.banner_text {
     margin: 50px;
-   
+
 }
-.banner_text h4{
+
+.banner_text h4 {
     color: #919191;
     text-transform: uppercase;
     margin: 30px;
 }
-.banner_text h1{
+
+.banner_text h1 {
     color: #626262;
     margin: 30px;
 }
-.banner_text p{
-    margin: 30px ;
+
+.banner_text p {
+    margin: 30px;
     color: #c0c0c0;
     text-align: justify;
 }
+
 /*------------- Banner section end here ----------------- */
 
 
 /* ------- life style container ------------------- */
-.lifestyle_container{
-    margin: 0 150px ;
+.lifestyle_container {
+    margin: 0 150px;
     display: flex;
 }
-.first_one{
+
+.first_one {
     width: 50%;
     padding: 25px
 }
-.second_one{
+
+.second_one {
     width: 50%;
     padding: 25px;
 }
+
 .lifestyle_text h4 {
     color: #919191;
     padding: 20px 0px;
     text-transform: uppercase;
 }
 
-.lifestyle_text h1{
+.lifestyle_text h1 {
     color: #626262;
     padding: 20px 0px;
 }
-.lifestyle_text p{
+
+.lifestyle_text p {
     color: #c0c0c0;
     padding: 20px 0px;
     text-align: justify;
 }
+
 /* --------- lifestyle end here ------------ */
-/* newsletter container start */
-.newsletter_container{
+
+/* ----------------- newsletter container start ---------------- */
+.newsletter_container {
     background-color: #f0f0f0;
     height: 250px;
 }
-.newsletter_text{
+
+.newsletter_text {
     text-align: center;
     margin: 0 auto;
     height: 50%;
 }
-.newsletter_text h2{
+
+.newsletter_text h2 {
     padding: 50px;
 }
-.form_box{
+
+.form_box {
     text-align: center;
     height: 50%;
 }
-.form_box input{
+
+.form_box input {
     margin: 17px 83px;
     border-style: none;
     background-color: #f0f0f0;
 }
-.new_div{
+
+.new_div {
     margin: 0 auto;
     width: 28%;
+}
+
+/* --------- Newsletter section end here ---------------*/
+
+/* ---------------- load more section ----------------- */
+.load_more {
+    padding: 20px;
+    margin: 0 auto;
+    width: 10%;
+    height: 100px;
+}
+
+.load_btn {
+    border: 1px solid black;
+    padding: 14px;
+    text-align: center;
+}
+
+.load_btn a {
+    color: #919191;
+}
+
+.footer_container {
+    background-color: #f0f0f0;
+    height: 80px;
+    display: flex;
+
+}
+
+.div_one {
+    width: 68%;
+    margin: 30px auto;
+}
+
+.div_one a {
+    color: #919191;
+    margin: 20px;
+}
+
+.div_two {
+    display: flex;
+    align-items: center;
+
+}
+
+.follow_text a {
+    padding: 30px;
+    color: #919191;
+}
+
+.social_icon {
+    padding: 20px;
+}
+.social_icon img{
+padding-left: 10px;
 }
